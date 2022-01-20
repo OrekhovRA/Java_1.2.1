@@ -7,13 +7,17 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/OrekhovRA/Java_1.2.1/issues/1#issue-1101538618
+
+* <a href="https://github.com/OrekhovRA/Java_1.2.1/issues/1#issue-1101538618">"Int total" считает не верно</a>
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные: https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+В качестве тестовых данных использовались
+данные: https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+
 * 2_500_000_000
 
 Тестирование производилось в следующем окружении:
+
 * OC Windows 10, 64
 * Java 11.0.11
